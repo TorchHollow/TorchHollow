@@ -1,7 +1,8 @@
 # Olá, sou Nikolas Júlio
 
 **Nikolas Júlio (Desenvolvedor-Full-Stack)**
-<br/>
+
+
 Sou Desenvolvedor Full-Stack, usando React com Typescript no Front-end e Node.js no Back-end. Tenho conhecimento também em JavaScript vanilla, e em outras Framework com Jquery e Bootstrap.
 
 ---
