@@ -21,6 +21,7 @@ Sou Desenvolvedor Full-Stack, usando React no Front-end e Node.js no Back-end. T
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
           
+<br/>
    
    <div>
    <a href="https://www.linkedin.com/in/nikolas-j%C3%BAlio-garcia-de-jesus-764978218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
