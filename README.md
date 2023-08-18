@@ -4,6 +4,9 @@
 
 Sou Desenvolvedor Full-Stack, usando React com Typescript no Front-end e Node.js no Back-end. Tenho conhecimento também em JavaScript vanilla, e em outras Framework com Jquery e Bootstrap.
 
+---
+
+
  <a href="https://github.com/TorchHollow">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TorchHollow&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <br>
