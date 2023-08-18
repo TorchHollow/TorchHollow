@@ -29,6 +29,8 @@ Sou Desenvolvedor Full-Stack, usando React com Typescript no Front-end e Node.js
 
 #
 
+### 🫱🏽 🫲🏽 Redes Sociais e Contato
+
   <div>
    <a href="https://www.linkedin.com/in/nikolas-j%C3%BAlio-garcia-de-jesus-764978218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:worknikolas2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
