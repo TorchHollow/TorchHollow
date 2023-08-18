@@ -19,14 +19,14 @@ Sou Desenvolvedor Full-Stack, usando React com Typescript no Front-end e Node.js
    <img align="left" alt="Java" width="30px" style="padding-right:10px;" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
    <img align="left" alt="Java" width="30px" style="padding-right:10px;" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
    <br/>
-   
-   #
           
+#
 
+### 📊 Status
 
   <div>
    <a href="https://www.linkedin.com/in/nikolas-j%C3%BAlio-garcia-de-jesus-764978218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "mailto:contatonikolasjulio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:worknikolas2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://twitter.com/nik0lasJulio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    </div>
    
