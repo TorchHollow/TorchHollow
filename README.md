@@ -3,7 +3,7 @@
 **Nikolas Júlio (Desenvolvedor-Web)**
 
 
-Sou um Desenvolvedor Front-End que está tentando entrar no mercado, sempre estou estudando e me interessando ao máximo pela tecnologia.
+Sou um Desenvolvedor Web que está tentando entrar no mercado, sempre estou estudando e me interessando ao máximo pela tecnologia.
 
 ---
 
