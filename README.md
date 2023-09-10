@@ -12,6 +12,7 @@ Sou um Desenvolvedor Front-End que está tentando entrar no mercado, sempre esto
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
           
 #
 
