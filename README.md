@@ -29,7 +29,7 @@ Sou um Desenvolvedor Web que está tentando entrar no mercado, sempre estou estu
 
 #
 
-### 🫱🏽 🫲🏽 Redes Sociais e Contato
+### 💬 Redes Sociais e Contato
 
   <div>
    <a href="https://www.linkedin.com/in/nikolas-j%C3%BAlio-garcia-de-jesus-764978218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
